@@ -33,3 +33,4 @@ The service will be running on http://localhost:3030.
 1. Install the REST Client extension in VS Code to use .http files.
 2. Use the provided test-product-service.http file to test the service.
 
+Wanted to make sure the first commit is meaningful
